@@ -1,9 +1,6 @@
-# proyekvisdat
+# Dashboard Informasi: Visualisasi Data Kondisi dan Kualitas Lingkungan di Indonesia
 Dokumentasi Proyek UAS Visualisasi Data dan Informasi
-
-Nama  : Sheyla Berlianti
-NIM   : 221911134
-Kelas : 3SD1
+(Sheyla Berlianti, 3SD1)
 
 ## Perancangan
 Proses perancangan dashboard informasi sebagai bentuk visualisasi data kondisi dan kualitas lingkungan di Indonesia disesuaikan dengan kebutuhan pengguna dan tujuan awal dari visualisasi data, yaitu:
