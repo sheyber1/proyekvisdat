@@ -1,6 +1,10 @@
 # proyekvisdat
 Dokumentasi Proyek UAS Visualisasi Data dan Informasi
 
+Nama  : Sheyla Berlianti
+NIM   : 221911134
+Kelas : 3SD1
+
 ## Perancangan
 Proses perancangan dashboard informasi sebagai bentuk visualisasi data kondisi dan kualitas lingkungan di Indonesia disesuaikan dengan kebutuhan pengguna dan tujuan awal dari visualisasi data, yaitu:
 1.	Menyajikan data kondisi lingkungan di Indonesia 
@@ -47,6 +51,7 @@ Pada visualisasi selanjutnya, terdapat 2 data yang disajikan dalam stacked bar c
 ![image](https://user-images.githubusercontent.com/107903297/174720618-1a7c4fd8-2ed8-4383-9c33-6f146a5eb138.png)
 
 Visualisasi terakhir akan menyajikan data Luas Ekosistem & Kawasan Konservasi Terumbu Karang, Mangrove, dan Padang Lamun. Untuk mempermudah pemahaman informasi disajikan 5 pulau dengan ekosistem dan kawasan konservasi terluas. Jenis visualisasi yang tepat untuk informasi ini adalah bubble chart. Bubble chart akan merepresentasikan data dengan gelembung dan dimensi tambahan dari data yang dipresentasikan pula dalam ukuran gelembung dimana semakin besar gelembung maka semakin luas pula ekosistem dan kawasan konservasi di pulau tersebut.
+
 ![image](https://user-images.githubusercontent.com/107903297/174720685-82a21e04-279a-461d-be2e-458e243af797.png)
 
 Agar layout atau penempatan visualisasi lebih efektif, ketiga data divisualisasikan dengan jenis yang sama. Lalu untuk mengubah tampilan sesuai jenis konservasi yang diinginkan, pengguna hanya perlu memilih pada opsi yang telah disediakan dan ditandai oleh kotak merah di atas.
